@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 520" role="img" aria-label="Portrait placeholder">
+  <rect width="420" height="520" fill="#1e4d45"/>
+  <circle cx="210" cy="188" r="78" fill="#f3efe6"/>
+  <path d="M92 430c18-78 62-118 118-118s100 40 118 118" fill="#f3efe6"/>
+  <text x="210" y="202" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#1e4d45">RM</text>
+</svg>
